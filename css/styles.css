@@ -1,0 +1,29 @@
+.fancy-button {
+  color: #fff;
+  background-color: #FFB6C1;
+
+  font-size: 20px;
+  padding: 20px;
+  border: none;
+  border-radius: 30px;
+  margin-left: 0px;
+
+  transition: background-color .25s ease-in-out, margin 1s ease-in-out;
+
+  .moved{
+    margin-left: 200px;
+  }
+
+
+}
+.fancy-button:hover{}
+  background-color: black;
+
+.hidden-thing {
+  display: none;
+  background-color: #fff;
+}
+
+.fancy-header:hover .hidden-thing {
+  display: block;
+}
