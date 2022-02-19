@@ -1,6 +1,8 @@
 <style>
 font-style {
   font-family: 'Raleway', sans-serif;
+  color: #D5ADB8;
+  
 }
 </style>
 <style>
@@ -8,6 +10,7 @@ background-color {
   background-color: #D3D3D3;
 }
 </style>
+
 
 .fancy-button {
   color: #fff;
