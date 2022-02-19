@@ -29,3 +29,14 @@
 .fancy-header:hover .hidden-thing {
   display: block;
 }
+<style>
+    img {
+        border-radius: 58%;
+    }
+</style>
+<style>
+h1 {
+  color: #FFB6C1;
+  font-size: 150%;
+}
+</style>
