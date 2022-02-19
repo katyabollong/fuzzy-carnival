@@ -1,5 +1,13 @@
-
-.font-family: 'Raleway', sans-serif;
+<style>
+font-style {
+  font-family: 'Raleway', sans-serif;
+}
+</style>
+<style>
+background-color {
+  background-color: #D3D3D3;
+}
+</style>
 
 .fancy-button {
   color: #fff;
@@ -42,5 +50,10 @@
 h1 {
   color: #D5ADB8;
   font-size: 150%;
+}
+</style>
+<style>
+h2 {
+  color: #D5ADB8;
 }
 </style>
