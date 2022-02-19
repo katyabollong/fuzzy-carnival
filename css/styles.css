@@ -2,7 +2,7 @@
 font-style {
   font-family: 'Raleway', sans-serif;
   color: #D5ADB8;
-  
+
 }
 </style>
 <style>
@@ -60,3 +60,6 @@ h2 {
   color: #D5ADB8;
 }
 </style>
+.font-style {
+  color: #D5ADB8;
+}
