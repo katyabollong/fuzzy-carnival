@@ -19,24 +19,24 @@ html{
 
 p{
   margin-left: 4vw;
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-size: 20px;
 }
 
 h1{
   font-size: 40px;
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   margin-left: 2vw;
   border:solid 2px #fa7dd2;
 }
 
 h2{
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   margin-left: 4vw;
 }
 
 #buttons{
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   margin-left: 25vw;
 }
 
@@ -45,4 +45,25 @@ img{
   position: relative;
   margin-left: 30vw;
   margin-top: 5vw;
+}
+img.bg {
+  /* Set rules to fill background */
+  min-height: 100%;
+  min-width: 1024px;
+
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+@media screen and (max-width: 1024px) { /* Specific to this particular image */
+  img.bg {
+    left: 50%;
+    margin-left: -512px;   /* 50% */
+  }
 }
