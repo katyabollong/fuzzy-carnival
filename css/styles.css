@@ -1,0 +1,48 @@
+html{
+  background-color: pink
+}
+
+#mybutton{
+  background-color: #D3D3D3;
+  font-size: 35px;
+}
+
+#mybutton2{
+  background-color: white
+  font-size: 35px;
+}
+
+#mybutton3{
+  background-color: #db0000;
+  font-size: 35px;
+}
+
+p{
+  margin-left: 4vw;
+  font-family: "Raleway";
+  font-size: 20px;
+}
+
+h1{
+  font-size: 40px;
+  font-family: "Raleway";
+  margin-left: 2vw;
+  border:solid 2px #fa7dd2;
+}
+
+h2{
+  font-family: "Raleway";
+  margin-left: 4vw;
+}
+
+#buttons{
+  font-family: "Raleway";
+  margin-left: 25vw;
+}
+
+img{
+  width: 30vw;
+  position: relative;
+  margin-left: 30vw;
+  margin-top: 5vw;
+}
