@@ -5,9 +5,11 @@ html{
 
 
 p{
+  color:purple;
+
   margin-left: 4vw;
   font-family: "Raleway", sans-serif;
-  font-size: 20px;
+  font-size: 300px;
 }
 
 h1{
