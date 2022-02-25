@@ -2,7 +2,7 @@ html{
   background-color: #FFB6C1
 }
 
-/*class notes
+/*class notes week 7
 p{
   background-color: green;
   padding: 10px 20px 5px 40px;
@@ -36,7 +36,7 @@ grids (they use divs)
 }
 
 example of code to do for when boxes are named box 1 box 2 box 3 ( another example of grids)
- 
+
 .box1
  grid-column: 2 / 3;
  grid-row: 1 / 3;
