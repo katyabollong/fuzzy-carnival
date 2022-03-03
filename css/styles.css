@@ -17,15 +17,15 @@ html{
   }
 
   .header {
-  background-color: red;
+  background-color: white;
   }
 
   .toc {
-    background-color: green;
+    background-color: white;
   }
 
   .content {
-    background-color: purple;
+    background-color: white;
   }
 
   .mobile-class {
