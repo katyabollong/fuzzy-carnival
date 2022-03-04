@@ -49,6 +49,11 @@ p {
     background-color: #e1c9d0;
   }
 
+  .name{
+    font-family: "Raleway", sans-serif !important;
+    top: 250px;
+  }
+
   .container {
     display:grid;
     background-color: #e1c9d0;
