@@ -8,6 +8,10 @@ html{
     background-color: #ffffff;
   }
 
+  .name{
+    color: orange;
+  }
+
   .container {
     display:grid;
     background-color: #ffffff;
