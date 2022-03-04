@@ -8,8 +8,8 @@ html{
     background-color: #ffffff;
   }
 
-  .name{
-    font-family: "Raleway", sans-serif;
+  #name{
+    font-family: "Raleway", sans-serif !important;
   }
 
   .container {
