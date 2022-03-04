@@ -63,6 +63,10 @@ p {
     gap: 20px;
   }
 
+  .h2{
+    color: orange;
+  }
+
   .header {
   background-color: #ffffff;
   grid-column: 1 / 4;
