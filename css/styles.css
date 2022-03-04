@@ -45,7 +45,7 @@ p {
 
   .container {
     display:grid;
-    background-color: #e1c9d0;
+    /* background-color: #e1c9d0; */
     padding: 20px;
     grid-template-rows: 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr 1fr;
