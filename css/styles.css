@@ -3,7 +3,7 @@ html{
 }
 
 /*class notes recitation 8*/
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 350px) {
   body {
     background-color: #ffffff;
   }
@@ -38,7 +38,7 @@ html{
 p {
   padding:50px;
 } /* to make text bigger */
-@media screen and (min-width: 401px) {
+@media screen and (min-width: 351px) {
    body {
     background-color: #e1c9d0;
   }
