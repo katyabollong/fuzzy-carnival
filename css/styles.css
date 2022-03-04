@@ -5,12 +5,12 @@ html{
 /*class notes recitation 8*/
 @media screen and (max-width: 400px) {
   body {
-    background-color: yellow;
+    background-color: #ffffff;
   }
 
   .container {
     display:grid;
-    background-color: pink;
+    background-color: #ffffff;
     padding: 20px;
     grid-template-rows: 1fr 1fr 1fr;
     gap: 20px;
@@ -40,12 +40,12 @@ p {
 } /* to make text bigger */
 @media screen and (min-width: 401px) {
    body {
-    background-color: yellow;
+    background-color: #ffffff;
   }
 
   .container {
     display:grid;
-    background-color: yellow;
+    background-color: pink;
     padding: 20px;
     grid-template-rows: 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr 1fr;
@@ -53,18 +53,18 @@ p {
   }
 
   .header {
-  background-color: red;
+  background-color: #ffffff;
   grid-column: 1 / 4;
 
   }
 
   .toc {
-    background-color: green;
+    background-color: #ffffff;
     grid-row: 2/4;
   }
 
   .content {
-    background-color: purple;
+    background-color: #ffffff;
     grid-row: 2/4;
     grid-column: 2/4;
   }
