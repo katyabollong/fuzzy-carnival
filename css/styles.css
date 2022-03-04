@@ -10,6 +10,7 @@ html{
 
   #name{
     font-family: "Raleway", sans-serif !important;
+    top: 25px;
   }
 
   .container {
