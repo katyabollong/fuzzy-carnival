@@ -1,0 +1,35 @@
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width:300%;
+  }
+
+  50% {
+    margin-left: 40%;
+    width: 135%;
+    font-size: 300%;
+  }
+
+  to {
+    margin-left:0%;
+    width: 100%;
+  }
+}
+
+.slide-in {
+  animation: 1s 5 alternate sildein;
+  /*animation-duration: 4s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;*/
+}
+
+a {
+  background-color: #333;
+  color: #fff;
+  border: 1px solid;
+  padding: 0.5rem;
+  text-align: center;
+  text-decoration: none;
+  transition
+}
