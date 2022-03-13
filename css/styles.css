@@ -151,8 +151,6 @@ example of code to do for when boxes are named box 1 box 2 box 3 ( another examp
 }
 */
 p{
-  color:purple;
-
   margin-left: 4vw;
   font-family: "Raleway", sans-serif;
   font-size: 300px;
@@ -161,8 +159,9 @@ p{
 h1{
   font-size: 40px;
   font-family: "Raleway", sans-serif;
-  margin-left: 2vw;
-  border:solid 2px #fa7dd2;
+  margin-left: 8vw;
+  color: #673046;
+
 }
 
 h2{
@@ -174,6 +173,7 @@ h2{
 h4{
   font-family: "Raleway", sans-serif;
   margin-left: 4vw;
+  color: #673046;
 }
 
 
