@@ -5,7 +5,7 @@ html{
 /*class notes recitation 8*/
 @media screen and (max-width: 350px) {
   body {
-    background-color: #ffffff;
+    /*background-color: #ffffff;*/
   }
 
   #name{
@@ -15,7 +15,7 @@ html{
 
   .container {
     display:grid;
-    background-color: #ffffff;
+    /*background-color: #ffffff;*/
     padding: 20px;
     grid-template-rows: 1fr 1fr 1fr;
     gap: 20px;
@@ -27,19 +27,19 @@ html{
   }
 
   .toc {
-    background-color: #ffffff;
+
   }
 
   .content {
-    background-color: #ffffff;
+
   }
   .image {
-    background-color: #ffffff;
+
 
   }
 
   .four {
-    background-color: #ffffff;
+
 
   }
 
@@ -86,7 +86,7 @@ p {
   }
 
   .toc {
-    
+
     grid-row: 2/4;
   }
 
