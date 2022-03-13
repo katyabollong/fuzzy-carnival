@@ -63,13 +63,11 @@ p {
     gap: 20px;
   }
 
-  .h2{
-    color: orange;
-  }
+
   .links{
     color: #673046;
   }
-  
+
   .header {
   background-color: #ffffff;
   grid-column: 1 / 4;
@@ -171,6 +169,10 @@ h2{
   margin-left: 4vw;
 }
 
+h4{
+  font-family: "Raleway", sans-serif;
+  margin-left: 4vw;
+}
 
 
 /*img{
