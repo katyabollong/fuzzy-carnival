@@ -40,7 +40,7 @@ html{
 
   .four {
     background-color: #ffffff;
-    
+
   }
 
 
@@ -86,22 +86,22 @@ p {
   }
 
   .toc {
-    background-color: #ffffff;
+    
     grid-row: 2/4;
   }
 
   .content {
-    background-color: #ffffff;
+
     grid-row: 2/4;
     grid-column: 2/4;
   }
   .image {
-    background-color: #ffffff;
+
     grid-row: 2/4;
   }
 
   .four {
-    background-color: #ffffff;
+
     grid-row: 2/4;
     grid-column: 2/4;
   }
