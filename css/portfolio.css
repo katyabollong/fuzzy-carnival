@@ -90,18 +90,18 @@ p {
   .content {
     background-color: #ffffff;
     grid-row: 2.5/5;
-    grid-column: 2/5;
+    grid-column: 1/5;
   }
   .image {
     background-color: #ffffff;
     grid-row: 2.5/5;
-    grid-column: 3/5
+    grid-column: 2/5
   }
 
   .four {
     background-color: #ffffff;
     grid-row: 2.5/5;
-    grid-column: 3/5;
+    grid-column: 2/5;
   }
 
   .mobile-class {
