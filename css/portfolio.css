@@ -87,13 +87,14 @@ p {
   }
   .image {
 
-    grid-row: 2/4;
+    grid-row: 3/4;
+    grid-column: 3/4
   }
 
   .four {
 
-    grid-row: 2/4;
-    grid-column: 2/4;
+    grid-row: 4/4;
+    grid-column: 4/4;
   }
 
   .mobile-class {
