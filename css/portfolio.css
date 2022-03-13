@@ -33,6 +33,16 @@ html{
   .content {
     background-color: #ffffff;
   }
+  .image {
+    background-color: #ffffff;
+
+  }
+
+  .four {
+    background-color: #ffffff;
+    
+  }
+
 
   .mobile-class {
     width: 25px;
@@ -76,22 +86,22 @@ p {
   }
 
   .toc {
-
+    background-color: #ffffff;
     grid-row: 2/4;
   }
 
   .content {
-
+    background-color: #ffffff;
     grid-row: 2/4;
     grid-column: 2/4;
   }
   .image {
-
+    background-color: #ffffff;
     grid-row: 2/4;
   }
 
   .four {
-
+    background-color: #ffffff;
     grid-row: 2/4;
     grid-column: 2/4;
   }
