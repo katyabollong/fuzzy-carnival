@@ -1,0 +1,17 @@
+h1 {
+font-weight: 300px;
+}
+
+strong {
+  font-weight: 900px;
+
+}
+
+button {
+  transition: color 1000ms ease-in-out;
+  font-size: 30px;
+}
+
+.is-red {
+  color:red;
+}
