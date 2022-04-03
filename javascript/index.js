@@ -20,3 +20,11 @@ let myVariable;
 myVariable = 'katya';
 
 let myVariable2 = 'brooke';
+
+let iceCream = 'chocolate';
+if (iceCream==='chocolate') {
+  Alert ('yay. i love chocolate');
+
+} else {
+  Alert ('aww but chocolate is my favorite');
+}
