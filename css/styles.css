@@ -212,7 +212,7 @@ hr {
   border-width: 1px;
 } */
 body {
-    background-image: src('img/rocks 2.jpg');
+    background-image: url('img/rocks 2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
