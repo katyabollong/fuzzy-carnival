@@ -211,3 +211,17 @@ hr {
   border-style: inset;
   border-width: 1px;
 } */
+body {
+    background-image: url('images/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div {
+    display: flex;
+    justify-content: center;
+}
+button {
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+}
