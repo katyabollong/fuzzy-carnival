@@ -1,5 +1,6 @@
 html{
   background-color: #e1c9d0;
+  box-sizing: border-box;
 }
 
 /*class notes recitation 8*/
@@ -212,7 +213,7 @@ hr {
   border-width: 1px;
 } */
 body {
-    background-image: url('img/rocks 2.jpg');
+    /* background-image: url('img/rocks 2.jpg'); */
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -224,4 +225,21 @@ button {
     height: 50px;
     width: 50px;
     margin: 10px;
+}
+
+
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+.app{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
 }
