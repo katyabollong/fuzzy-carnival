@@ -1,22 +1,30 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-<head>
-  <meta charset="utf-8">
-  <title> Week 12 Demo -- Quote Machine</title>
-  <script src="../javascript/demo.js" charset="utf-8"></script>
-  <link rel="stylesheet" href="../css/styles.css">
+  <head>
+    <meta charset="utf-8">
+    <title>Week 12 Demo -- Quote Machine</title>
+    <script defer src="../javascript/week12.js" charset="utf-8"></script>
+    <link rel="stylesheet" href="../css/week12.css">
   </head>
   <body>
     <div class="app">
-  <header> Random Quote Generator</header>
+  <header>Chuck Norris Jokes</header>
   <section class="quotes">
-    <div class ="quote-text" id="js-quote-text"></div>
+    <div class="quote-text" id="js-quote-text"></div>
   </section>
   <section class="controls">
     <button type="button" id="js-new-quote" class="new-quote button">
-      Generate a new quote.
+      Generate a new quote
     </button>
   </section>
+  <div class="progress">
+      <div class="progress__fill"></div>
+      <span class="progress__text">0%</span>
+    </div>
+  <h5> I decided to add a loading bar to the bottom of my page to show when the next Chuck Norris joke will finish loading.</h5>
 </div>
+
   </body>
 </html>
+
+<!-- https://random-quote-generator.herokuapp.com/api/quotes/random -->
