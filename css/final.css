@@ -186,7 +186,18 @@ nav {
   padding-left: 1.5rem;
 }
 .social-icons {
-  display: none;
+  display: flex;
+  height: 0;
+  overflow: hidden;
+  transition: var(--transition);
+}
+.social-icons a {
+  margin: 0 0.5rem;
+  color: #4b4851;
+  transition: #bca699;
+}
+.social-icons a:hover {
+  color: #615a5a;
 }
 
 .links {
