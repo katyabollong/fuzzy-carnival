@@ -189,14 +189,11 @@ nav {
 
 .social-icons {
   display: flex;
-}
-.social-icons a {
   margin: 0 0.5rem;
   color: #4b4851;
   transition: #bca699;
 }
 
-}
 .links {
   height: 0;
   overflow: hidden;
