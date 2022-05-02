@@ -155,7 +155,7 @@ nav {
 }
 .nav-toggle {
   font-size: 1.5rem;
-  color: var(--clr-primary-5);
+  color: red;
   background: transparent;
   border-color: transparent;
   transition: var(--transition);
