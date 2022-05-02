@@ -186,10 +186,7 @@ nav {
   padding-left: 1.5rem;
 }
 .social-icons {
-  display: flex;
-  height: 0;
-  
-  transition: var(--transition);
+  display: none;
 }
 
 .links {
