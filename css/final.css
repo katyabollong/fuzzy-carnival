@@ -55,8 +55,8 @@ Global Styles
 }
 body {
   font-family: var(--ff-secondary);
-  background: var(--clr-grey-10);
-  color: var(--clr-grey-1);
+  background: #ece4df;
+  color: #4b4851;
   line-height: 1.5;
   font-size: 0.875rem;
 }
@@ -90,7 +90,7 @@ h4 {
 }
 p {
   margin-bottom: 1.25rem;
-  color: var(--clr-grey-5);
+  color: #615a5a;
 }
 @media screen and (min-width: 800px) {
   h1 {
@@ -144,7 +144,7 @@ Navbar
 ===============
 */
 nav {
-  background: var(--clr-white);
+  background: #ece4df;
   box-shadow: var(--light-shadow);
 }
 .nav-header {
@@ -155,21 +155,21 @@ nav {
 }
 .nav-toggle {
   font-size: 1.5rem;
-  color: red;
+  color: #bca699;
   background: transparent;
   border-color: transparent;
   transition: var(--transition);
   cursor: pointer;
 }
 .nav-toggle:hover {
-  color: var(--clr-primary-1);
+  color: #4b4851;
   transform: rotate(90deg);
 }
 .logo {
   height: 40px;
 }
 .links a {
-  color: var(--clr-grey-3);
+  color: #bca699;
   font-size: 1rem;
   text-transform: capitalize;
   letter-spacing: var(--spacing);
@@ -179,7 +179,7 @@ nav {
 }
 .links a:hover {
   background: var(--clr-primary-8);
-  color: var(--clr-primary-5);
+  color: #4b4851;
   padding-left: 1.5rem;
 }
 .social-icons {
@@ -225,10 +225,10 @@ nav {
   }
   .social-icons a {
     margin: 0 0.5rem;
-    color: var(--clr-primary-5);
-    transition: var(--transition);
+    color: #4b4851;
+    transition: #bca699;
   }
   .social-icons a:hover {
-    color: var(--clr-primary-7);
+    color: #615a5a;
   }
 }
