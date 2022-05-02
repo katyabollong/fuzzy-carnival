@@ -185,8 +185,17 @@ nav {
   color: #4b4851;
   padding-left: 1.5rem;
 }
+
+
 .social-icons {
   display: flex;
+}
+.social-icons a {
+  margin: 0 0.5rem;
+  color: #4b4851;
+  transition: #bca699;
+}
+
 }
 .links {
   height: 0;
