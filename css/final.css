@@ -181,7 +181,7 @@ nav {
   transition: var(--transition);
 }
 .links a:hover {
-  background: var(--clr-primary-8);
+  background: #615a5a;
   color: #4b4851;
   padding-left: 1.5rem;
 }
