@@ -148,7 +148,7 @@ Navbar
 */
 nav {
   background: #ece4df;
-  box-shadow: var(--light-shadow);
+  box-shadow: #bca699;
 }
 .nav-header {
   display: flex;
